@@ -1,6 +1,11 @@
 # ReinforcementLearningInAutoPilot
-ReinforcementLearningInAutoPilot
+
+## 效果展示
+![](./Results/RL_Curve.gif)
+## 设计框架
 ![](./Agent.png)
+
+
 - 暂未开源
 ## 流程记录
 - 安装carla仿真环境
