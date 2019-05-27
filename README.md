@@ -1,6 +1,8 @@
 
 
 # 效果展示
+![多车路径跟随训练A3Cv2](./Results/multi_path_follow_A3C_v2.gif)
+<center>多车路径跟随训练A3Cv2</center>
 
 ![多路径点A3Cv2](./Results/pathFollowA3C_v2.gif)
 <center>多路径点A3Cv2</center>
