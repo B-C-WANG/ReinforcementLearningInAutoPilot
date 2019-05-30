@@ -1,6 +1,13 @@
 
 
 # 效果展示
+
+![车道线跟随A3C_v1 1](./Results/a3c_laneFollow_v1_2.gif)
+<center>车道线跟随A3C_v1 1</center>
+
+![车道线跟随A3C_v1 2](./Results/a3c_laneFollow_v1_1.gif)
+<center>车道线跟随A3C_v1 2</center>
+
 ![多车路径跟随训练A3Cv2](./Results/multi_path_follow_A3C_v2.gif)
 <center>多车路径跟随训练A3Cv2</center>
 
