@@ -2,6 +2,9 @@
 
 # 效果展示
 
+![车道线跟随DDPG_v1](./Results/DDPG_laneFollow_v1.gif)
+<center>车道线跟随,使用DDPG，能够实现非常长的路程在车道内行驶（因为使用浮点数油门和转向，控制很稳）</center>
+
 ![车道线跟随A3C_v1 1](./Results/a3c_laneFollow_v1_2.gif)
 <center>车道线跟随A3C_v1 1</center>
 
