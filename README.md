@@ -1,6 +1,9 @@
 
 
 # 效果展示
+![仅使用模仿学习的车道跟随+过红绿灯结果](./Results/ddpg_laneFollowWithTrafficLight_carlaAgentIL.gif)
+<center>红绿灯信息为2长度向量（是否有红绿灯，到红绿灯距离），使用模仿学习基于carla的agent训练RL中的模型</center>
+
 ![仅使用模仿学习的车道跟随结果](./Results/ddpg_laneFollow_onlyCarlaAgentIL.gif)
 <center>在复杂的城镇道路环境中，使用模仿学习模仿carla的agent的驾驶行为，为RL学习提供引导</center>
 
