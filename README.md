@@ -1,3 +1,6 @@
+# notice
+- **本项目代码来源于private仓库：egocar**
+- **代码部分开源，开源内容主要为：carla部分接口封装，模型和强化学习Agent算法内容（大部分源于开源），以及训练用脚本，不开源大部分Env以及相应的Reward，Done，State等的具体实现（有部分文档），同时保留整体框架，不开源内容会raise ClosedError**
 
 
 # 效果展示
